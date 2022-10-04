@@ -5,3 +5,4 @@
 5. Adicionar arquivos no github desktop
 6. Criar commit
 7. Enviar (push) commit ou commits para github
+8. Setting > Pages > escolher branch para fazer deploy. Mais informação aqui -> https://pages.github.com/
