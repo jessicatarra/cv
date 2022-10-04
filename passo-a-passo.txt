@@ -1,0 +1,7 @@
+1. Criar um repositorio no github
+2. Baixar github desktop 
+3. Clonar o repositorio previamente criado
+4. Adicionar os respetivos arquivos ou projeto
+5. Adicionar arquivos no github desktop
+6. Criar commit
+7. Enviar (push) commit ou commits para github
